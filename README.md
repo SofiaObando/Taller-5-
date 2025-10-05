@@ -1,4 +1,4 @@
-# Taller-5-
+# Taller-5- Construcción de un Índice Financiero Regional
 Integrantes: Sofía Obando, Alejandro Herrera, Issac Suárez
 
 Este taller nació de una pregunta esencial: ¿cómo ha evolucionado el comportamiento económico de las distintas regiones del mundo a lo largo del tiempo? Para responderla, construimos un índice financiero regional que abarca América, Europa y Asia entre 2014 y 2024, con el propósito de narrar, a través de los datos, la historia económica de una década marcada por cambios globales.
